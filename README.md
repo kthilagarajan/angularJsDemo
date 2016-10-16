@@ -1,6 +1,6 @@
 # angularJsDemo
 
-Modules Covered : Controllers, Factories, Directives, Validation, Routing, Scope, Json Parcing, Ajax Request
+Modules Covered : Controllers, Factories, Directives, Validation, Routing, Scope, Json Parsing, Ajax Request
 
 Angular Js Environment Setup
 
