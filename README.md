@@ -1,5 +1,7 @@
 # angularJsDemo
 
+Modules Covered : Controllers, Factories, Directives, Validation, Routing, Scope, Json Parcing, Ajax Request
+
 Angular Js Environment Setup
 
 1. First Download NodeJs
